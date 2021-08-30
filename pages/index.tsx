@@ -104,7 +104,7 @@ const index: FunctionComponent<Props> = ({ streamerData }) => {
     <Wrapper>
       <Container>
         <div className="top-bar">
-          <img className="logo" src="/icons/app_icon.svg" />
+          <img className="logo" src="/icons/app_icon.jpg" />
         </div>
 
         <h1>

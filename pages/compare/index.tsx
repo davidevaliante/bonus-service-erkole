@@ -61,7 +61,7 @@ const Compare: FunctionComponent<Props> = ({ streamerData, bonusToShow }) => {
     <Wrapper>
       <Container>
         <div className="top-bar">
-          <img className="logo" src="/icons/app_icon.svg" />
+          <img className="logo" src="/icons/app_icon.jpg" />
         </div>
 
         <h1>Migliori casinò legali dove trovare questi giochi:</h1>
