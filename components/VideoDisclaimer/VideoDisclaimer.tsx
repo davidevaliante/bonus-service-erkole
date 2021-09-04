@@ -22,7 +22,7 @@ const VideoDiscalimer = (props: Props) => {
       trasparenza e non costituisce pertanto una forma di pubblicità
       <p style={{ margin: "1rem 0rem" }}>
         Il gioco è vietato ai minori e può causare dipendenza patologica. Gioca
-        respo nsabilmente.
+        responsabilmente.
       </p>
       <div
         style={{
